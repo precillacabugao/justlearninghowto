@@ -1,10 +1,73 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>Title</title>
+    <meta charset="utf-8">
+    <title>Project: Blog</title>
 </head>
+
+<style>
+
+
+    body {background-color: rgb(227, 221, 136);}
+
+
+    h1 {color:rgb(255, 127, 255);
+        text-align: center;
+        font-family:monospace;}
+
+    h2 {color: rgb(129, 118, 227);}
+
+    h3 {color: rgb(26, 93, 217);
+        font-family: monospace;
+        text-align: center;
+        font-style:italic;
+        font-weight:bold;
+        font-size:20px;
+    }
+
+    h5{text-align: center;}
+
+    #change{color: rgb(20, 26, 204);
+        font-family: cursive;
+        font-size: 13px;
+    }
+
+
+</style>
+
+
+
+
+
+
+
+
+
 <body>
 
+
+<h1>Precilla's blog</h1>
+
+<h2>Contents</h2>
+<ul>
+    <li><a href="#First post">The exhaustion at work</a></li>
+    <li><a href="#Frustration">The frustration to change career</a></li>
+</ul>
+
+
+<h3 id="First post">First Post: The Exhaustion At Work</h3>
+<h5>July 17, 2018 at 7:15PM</h5>
+
+<p id="change">Wow! It has not been a year at this job. At first, it was very exciting. Very! I loved it. Everything was going great. I went on vacation and came back and all the drama started. It is very exhausting when you are not able to do the things you are supposed to do, instead I was doing things to help other managers. Great! I don't think I'm at all helping the residents. I feel really exhausted and I'm becoming more miserable every single day in that workplace. I have a solution in mind but I am not 100% just yet. I'm widening my skills and knowledge in other field. There are other things that can actually help me survive this life. This is not the only life I can have, you know! There's so much the world can offer me. I'm starting to hate dealing with people. I'm already an introvert, I'm becoming it more and more! Man! This job is supposed to help me grow professionally. I don't feel that way tho! But whatever! What else can I do right now? Deal with it while looking for a new job while learning programming so I can change my career which brings me to my next blog... watch for it!</p>
+
+
+<h3 id="Frustration">Second Post: The Frustration to Change Careers</h3>
+<h5>July 17, 2018 at 7:23PM</h5>
+
+<p id="change">
+    When  I was in college,  I changed my major all the time. I was in junior college for more then two years which I think is bad. I graduated high school when I was 16. So I  should have graduated with my bachelors younger than my classmates but I didn't coz like I said, I changed my major all the time. Shame! If I can just turn back time, I would totally change my career to a different one. Perhaps, something that makes me happy and makes me a lot of money. Man! My job right now? I'm barely surviving. But it's okay, it takes years to realize. If I was not in this exact position, I would not even realize it.  At all! So... I'm totally considering changing my careers to a tech career! Website designer? Programmer? Coder? That sounds so nice and so smart too! This is not easy but I can definitely learn it! It'll just take time. I will  need more patience. I'm 50% sure I want to do this. I'll make up my mind by the end of this year. I have to because I want to start classes when at the beginning of next year! I think it's doable. I just need perseverance. I have it. It'll help me a lot! I want to do so many things. I'm taking it one step at a time.. But much faster walking. That's all!
+</p>
+
+<a href="invite.html">Come to my party</a>
 </body>
 </html>
